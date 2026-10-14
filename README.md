@@ -22,6 +22,11 @@ report is in [docs/conformance-report.json](docs/conformance-report.json).
 
 ## Browsing with the i3X Explorer
 
+PARA on the right, the same data point (`ExampleDP_DDE` with its elements `f1`, `f2`, `b1`, `string1`)
+in the i3X Explorer on the left. The Hierarchy view mirrors the PARA tree one to one:
+
+![PARA next to the i3X Explorer](docs/explorer-vs-para.png)
+
 The official i3X Explorer connected to the manager, showing a WinCC OA data point element,
 its type, parent, live value and a running subscription:
 
