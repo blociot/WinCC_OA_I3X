@@ -1,0 +1,14 @@
+{
+  "name": "winccoa-i3x-manager",
+  "version": "1.0.0",
+  "description": "WinCC OA JavaScript manager exposing PARA data over the CESMII i3X 1.0 REST API",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "BlocIoT",
+  "repository": "github:blociot/OA_I3X",
+  "engines": { "node": ">=18.17" },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  }
+}
