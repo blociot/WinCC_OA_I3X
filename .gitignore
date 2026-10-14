@@ -2,3 +2,5 @@
 node_modules/
 *.log
 i3x-manager/config.json
+.claude/
+CLAUDE.md
