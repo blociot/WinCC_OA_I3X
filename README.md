@@ -1,4 +1,4 @@
-# OA_I3X - WinCC OA as an i3X Server
+# WinCC_OA_I3X - WinCC OA as an i3X Server
 
 A WinCC OA JavaScript manager that exposes your PARA data (data point types, data points,
 elements, live values, history, writes and subscriptions) over the

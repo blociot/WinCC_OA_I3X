@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "author": "BlocIoT",
-  "repository": "github:blociot/OA_I3X",
+  "repository": "github:blociot/WinCC_OA_I3X",
   "engines": { "node": ">=18.17" },
   "scripts": {
     "start": "node index.js",
